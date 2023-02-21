@@ -1,0 +1,22 @@
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+}
+button
+{
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 100px;
+  width: 22%;
+  font-size: 24px;
+  background-color: aqua;
+
+}
+button:hover{
+  background-color: violet;
+}
